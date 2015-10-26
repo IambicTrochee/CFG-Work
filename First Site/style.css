@@ -1,0 +1,26 @@
+body {
+	background-color: #201405;
+}
+
+h1 {
+	font-family: Didot;
+	color: white;
+	background-color: yellow;
+	border-top: 2px;
+	border-bottom: 2px;
+	border-top-color: black;
+	border-bottom-color: black;
+}
+
+.list {
+	display: inline-block;
+	padding: 10px;
+}
+
+li {
+	color: white;
+}
+
+p {
+	color: white;
+}
